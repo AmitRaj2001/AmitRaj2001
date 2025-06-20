@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Amit Raj, a Computer Science(honors) graduate from Lovely Professional University with a GPA of 7.99 . I'm a big fan of technology and I'm skilled in  C++, JavaScript Swift and Python. I've also got hands-on experience with MERN stack development and iOS Development with swift . I'm eager to pick up new skills, connect with different people, and dive into fresh experiences. I hold certificate in Linux and Data structure and algorithm. Notably, I've solved over 400+ coding problems on platforms like LeetCode and Codeforces, reflecting my commitment to continuous learning and problem-solving. 
+I am Amit Raj, a Computer Science(honors) graduate from Lovely Professional University with a GPA of 7.99 . I'm a big fan of technology and I'm skilled in  C++, JavaScript, Swift and Python. I've also got hands-on experience with MERN stack development and iOS Development with swift . I'm eager to pick up new skills, connect with different people, and dive into fresh experiences. I hold certificate in Linux and Data structure and algorithm. Notably, I've solved over 400+ coding problems on platforms like LeetCode and Codeforces, reflecting my commitment to continuous learning and problem-solving. 
 
 
 ## 🌐 Socials:
